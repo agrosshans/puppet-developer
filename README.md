@@ -1,2 +1,2 @@
 # puppet-developer
-Repository for tracking puppet lessons
+Repository for tracking puppet lessons.
